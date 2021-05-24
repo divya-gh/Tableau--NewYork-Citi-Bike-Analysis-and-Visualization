@@ -81,6 +81,9 @@ Map below shows the most popular start and end stations by user type.
 ## Code 
 [Tableau Workbook](./NY-Citi-Bike-Analytics.twbx)
 
+## Tableau Public Workbook 
+[Tableau Workbook](https://public.tableau.com/profile/divya.shetty#!/vizhome/NYCitiBikeAnalytics_16218206986070/NYCityBikeTripsStatistics?publish=yes)
+
 
 ## Status
 Project Complete
